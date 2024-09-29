@@ -1,0 +1,19 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="{% static 'book_style.css' %}">
+    <title>{{book.title}}</title>
+</head>
+<body>
+    <h2 class="title">{{book.title}}</h2>
+    <p>Жанр: {{book.genre}}</p>
+    <p>Автор: {{book.author}}</p>
+    <br>
+    <p>Описание:</p>
+    <div class="desc">
+        {{book.description}}
+    </div>
+</body>
+</html>
