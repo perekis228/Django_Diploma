@@ -93,7 +93,7 @@
     <div class="book-show">
         {% if user.admin %}
             <p>Новая книга</p>
-            <form method="post">
+            <form method="post" action="/books/">
                 {% csrf_token %}
                 <label for="title">Название</label>
                 <input type="text" id="title" name="title" maxlength="50" required><br>
@@ -104,8 +104,8 @@
                 <label for="genre">Жанр</label>
                 <input type="text" id="genre" name="genre" maxlength="50" required><br>
 
-                <label for="desc">Описание</label>
-                <input type="text" id="desc" name="desc" required><br>
+                <label for="description">Описание</label>
+                <input type="text" id="description" name="description" required><br>
 
                 <button type="submit">Создать</button>
             </form>

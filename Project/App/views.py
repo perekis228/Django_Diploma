@@ -60,9 +60,8 @@ def books(request):
             title = form.cleaned_data['title']
             author = form.cleaned_data['author']
             genre = form.cleaned_data['genre']
-            desc = form.cleaned_data['desc']
-            book = Book(title=title, author=author, genre=genre, description=desc)
-            book.save()
+            description = form.cleaned_data['description']
+            Book.objects.create(title=title, author=author, description=description, genre=genre)
             return redirect('/books')
     else:
         form = CreateBook()
