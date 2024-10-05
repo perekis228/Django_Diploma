@@ -1,0 +1,141 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"9ecb43ec-aea3-41d3-a1fe-478880549ec7\" name=\"Changes\" comment=\"Django_Diploma\">\r\n      <change afterPath=\"$PROJECT_DIR$/Project/App/forms.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Project/__init__.py\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Project/templates/log_in.html\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/Project/templates/registration.html\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Project/App/models.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Project/App/models.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Project/App/views.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Project/App/views.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Project/Project/urls.py\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Project/Project/urls.py\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Project/db.sqlite3\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Project/db.sqlite3\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/Project/templates/books.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/Project/templates/books.html\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Python Script\" />\r\n        <option value=\"HTML File\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 8\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2mhfzxsaRFjnS5tdLJSCVRa8Tki\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;master&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\PythonUniversity\\Django_Diploma\\Project\\App\" />\r\n      <recent name=\"C:\\PythonUniversity\\Django_Diploma\\Project\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SharedIndexes\">\r\n    <attachedChunks>\r\n      <set>\r\n        <option value=\"bundled-python-sdk-c69650fc56ca-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15619.17\" />\r\n      </set>\r\n    </attachedChunks>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"9ecb43ec-aea3-41d3-a1fe-478880549ec7\" name=\"Changes\" comment=\"\" />\r\n      <created>1727533994834</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1727533994834</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Django_Diploma\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1727606091552</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1727606091552</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Django_Diploma\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Django_Diploma\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision df2db8f25a6fd0d19670b6a883aead5a5bdcc52e)
++++ b/.idea/workspace.xml	(date 1728149960360)
+@@ -4,17 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="9ecb43ec-aea3-41d3-a1fe-478880549ec7" name="Changes" comment="Django_Diploma">
+-      <change afterPath="$PROJECT_DIR$/Project/App/forms.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Project/__init__.py" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Project/templates/log_in.html" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/Project/templates/registration.html" afterDir="false" />
++    <list default="true" id="9ecb43ec-aea3-41d3-a1fe-478880549ec7" name="Changes" comment="Registration, logging in, filter, add new book, new table User">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Project/App/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/App/models.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Project/App/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/App/views.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Project/Project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Project/Project/urls.py" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Project/db.sqlite3" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/Project/templates/books.html" beforeDir="false" afterPath="$PROJECT_DIR$/Project/templates/books.html" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -30,7 +21,27 @@
+     </option>
+   </component>
+   <component name="Git.Settings">
++    <option name="RECENT_BRANCH_BY_REPOSITORY">
++      <map>
++        <entry key="$PROJECT_DIR$" value="k" />
++      </map>
++    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++    <option name="RESET_MODE" value="SOFT" />
++  </component>
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
++    &quot;state&quot;: &quot;OPEN&quot;,
++    &quot;assignee&quot;: &quot;perekis228&quot;
++  }
++}</component>
++  <component name="GithubPullRequestsUISettings">
++    <option name="selectedUrlAndAccountId">
++      <UrlAndAccount>
++        <option name="accountId" value="0e2ff79b-9d46-4851-a4fc-4850b07f4d2a" />
++        <option name="url" value="https://github.com/perekis228/Django_Diploma.git" />
++      </UrlAndAccount>
++    </option>
+   </component>
+   <component name="ProjectColorInfo">{
+   &quot;associatedIndex&quot;: 8
+@@ -41,14 +52,14 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "DefaultHtmlFileTemplate": "HTML File",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "git-widget-placeholder": "master"
+   }
+-}</component>
++}]]></component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
+       <recent name="C:\PythonUniversity\Django_Diploma\Project\App" />
+@@ -79,11 +90,58 @@
+       <option name="project" value="LOCAL" />
+       <updated>1727606091552</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Registration, logging in, filter, add new book, new table User">
++      <option name="closed" value="true" />
++      <created>1728147144111</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1728147144111</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="RECENT_FILTERS">
++      <map>
++        <entry key="Branch">
++          <value>
++            <list>
++              <RecentGroup>
++                <option name="FILTER_VALUES">
++                  <option value="HEAD" />
++                </option>
++              </RecentGroup>
++            </list>
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="HEAD" />
++                      </list>
++                    </value>
++                  </entry>
++                </map>
++              </option>
++            </State>
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Django_Diploma" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Django_Diploma" />
++    <MESSAGE value="Registration, logging in, filter, add new book, new table User" />
++    <option name="LAST_COMMIT_MESSAGE" value="Registration, logging in, filter, add new book, new table User" />
+   </component>
+ </project>
+\ No newline at end of file
